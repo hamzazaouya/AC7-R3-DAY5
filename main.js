@@ -22,5 +22,3 @@ for (let i = 3; i >= 0; i--) {
 printChap1.innerHTML = output1;
 
 //Cheap 2
-
-for
